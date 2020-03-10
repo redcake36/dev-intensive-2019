@@ -10,9 +10,6 @@ local.properties
 # Version control
 vcs.xml
 
-# Built application files
-build/
-
 # Files for the ART/Dalvik VM
 *.dex
 
@@ -38,3 +35,6 @@ captures/
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
+
+# Built application files
+build/
