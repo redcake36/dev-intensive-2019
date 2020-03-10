@@ -10,10 +10,6 @@ local.properties
 # Version control
 vcs.xml
 
-# Built application files
-*.apk
-*.ap_
-*.aab
 
 # OS-specific files
 .DS_Store
@@ -30,3 +26,8 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 lint/reports/
+
+# Built application files
+*.apk
+*.ap_
+*.aab
