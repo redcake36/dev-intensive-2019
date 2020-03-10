@@ -10,7 +10,6 @@ local.properties
 # Version control
 vcs.xml
 
-
 # OS-specific files
 .DS_Store
 .DS_Store?
